@@ -1,9 +1,12 @@
 h1 {
-color: crimson;
+color: purple;
 }
 .Help {
     background-color: chocolate; color: cyan;
 }
 #SJ {
     font-family: 'Courier New', Courier, monospace; background-color: brown; color: navy;
+}
+body {
+    font-size: large; font-family: 'Times New Roman', Times, serif;
 }
