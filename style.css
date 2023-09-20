@@ -10,3 +10,9 @@ color: purple;
 body {
     font-size: large; font-family: 'Times New Roman', Times, serif; 
 }
+.clickable:hover{
+cursor: not-allowed; color: blue;
+}
+.clickable:active{
+    color: purple;
+}
