@@ -12,7 +12,13 @@ body {
 }
 .clickable:hover{
 cursor: not-allowed; color: blue;
+height: 60px; width: 70px; margin: 8px;
 }
+
 .clickable:active{
     color: purple;
+    height: 60px; width: 70px; margin: 8px;
+}
+.clickable{
+    height: 150px; width: 150px; font-size: large; color: brown; background-color: aqua;
 }
