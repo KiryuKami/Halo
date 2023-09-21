@@ -63,4 +63,6 @@ height: 60px; width: 70px; margin: 8px;
     position: relative;
     display: inline-block;
     text-align: center;
+    left: 105%;
+    top: -5px;
 }
