@@ -1,6 +1,5 @@
-h1 {
-color: purple;
-}
+
+
 .Help {
     background-color: chocolate; color: cyan;
 }
@@ -17,8 +16,51 @@ height: 60px; width: 70px; margin: 8px;
 
 .clickable:active{
     color: purple;
-    height: 60px; width: 70px; margin: 8px;
+    height: 160px; width: 170px; margin: 100px;
 }
 .clickable{
     height: 150px; width: 150px; font-size: large; color: brown; background-color: aqua;
+}
+.header:hover{
+    color: skyblue;
+}
+.header{
+    color: red; font-size: 40px; font-family: fantasy; text-align: center;
+}
+.Pipen{
+    background-color: darkviolet; color: rgb(39, 105, 45);
+    text-align: center;
+}
+.Kir{
+    background-color: dimgray; color: beige;
+    text-align: center;
+}
+.Veeze{ 
+    text-align: center;
+    background-color: darkred; color: chartreuse
+         
+}
+.Ryu{
+    background-color: hotpink; color: crimson;
+    text-align: center;
+}
+.Millions{
+    background-color: aquamarine; color: indigo;
+    text-align: center;
+}
+.pic{
+    display: block;  
+  margin-left: auto;
+  margin-right: auto;
+}
+.text{
+    text-align: center; color: green; background-color: gold;
+}
+#Sponge{
+    color: red; font-size: 40px; font-family: fantasy; text-align: center; background-color: darkblue; 
+}
+.tooltip{
+    position: relative;
+    display: inline-block;
+    text-align: center;
 }
